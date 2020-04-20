@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/com.azalea.ufl.barcode.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/commons-configuration-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/CrystalCommon2.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/CrystalReportsRuntime.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/cvom.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/DatabaseConnectors.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/icu4j.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/jai_imageio.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/JDBInterface.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/jrcerom.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/keycodeDecoder.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/logging.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/pfjgraphics.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/QueryBuilder.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/webreporting.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/webreporting-jsf.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/XMLConnector.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/plugins/crystal_reports/lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/lib/j2db.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/lib/j2dbdev.jar"/>
+	<classpathentry kind="lib" path="C:/Servoy/builds/2019.09/application_server/lib/log4j-api.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
